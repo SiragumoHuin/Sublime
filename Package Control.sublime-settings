@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ClangAutoComplete",
+		"ConvertToUTF8",
+		"DataConverter",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"HTML5",
+		"Japanize",
+		"jQuery",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Python Completions",
+		"Smart Delete",
+		"SublimeCodeIntel",
+		"Table Editor",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}
