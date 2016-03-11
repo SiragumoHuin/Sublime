@@ -1,4 +1,6 @@
 {
+	"disable_tab_abbreviations": true,
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"ignored_packages":
 	[
 	]
